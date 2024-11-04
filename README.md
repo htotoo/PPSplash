@@ -9,3 +9,6 @@ Anybody can send PR to this repo, but only BMP and only working Portapack splash
 Don't use the root folder!
 
 If you find any splash not working, leave an issue with the category and filename. This way you can report report inappropriate or copyrighted content.
+
+
+The website updated hourly. So when your PR is merged, it coult take 1 hour to show in the website.
