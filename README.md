@@ -12,3 +12,6 @@ If you find any splash not working, leave an issue with the category and filenam
 
 
 The website updated hourly. So when your PR is merged, it coult take 1 hour to show in the website.
+
+
+Initial images are from https://github.com/kushed3d/HackRF-Splash-Screens , Discord: https://discord.gg/BF5jbZjpWe , eried's collection.
